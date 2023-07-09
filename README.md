@@ -2,6 +2,9 @@
 
 The Tool Rental Point of Sale System is a Java-based application that allows users to manage tools, track holidays, and process tool checkouts. It provides a command-line interface for interacting with the system.
 
+## Background
+This is a self project to re-learn Java and revist Object Oriented Programming (OOP) principles.
+
 ## Features
 
 - Manage tools: Add, update, and delete tools in the system.
