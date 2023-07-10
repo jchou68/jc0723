@@ -55,7 +55,6 @@ This is a self project to re-learn Java and revist Object Oriented Programming (
 - Java
 - Maven
 - JUnit
-- Mockito
 
 ### Project Structure
 
