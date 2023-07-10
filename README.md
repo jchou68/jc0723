@@ -67,8 +67,8 @@ The project follows the standard Maven project structure:
 │   │   └── java
 │   │       └── com
 │   │           └── tool_rental_pos
-│   │               ├── classes      # Implementation of tool rental point of sale system
 │   │               ├── other        # Additional utility classes
+│   │                   └── classes      # Implementation of tool rental point of sale system
 │   │               └── App.java     # Main entry point of the application
 │   ├── test
 │   │   └── java
